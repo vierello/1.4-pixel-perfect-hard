@@ -1,0 +1,21 @@
+.container {
+  width: 1500px;
+  padding: 0 280px 0 266px;
+}
+
+.mob-to-dos {
+  text-transform: uppercase;
+  float: left;
+}
+
+.mob-to-dos li {
+  display: inline-block;
+}
+
+.creator {
+  float: right;
+}
+
+.creator li {
+  display: inline-block;
+}
